@@ -1,1 +1,1 @@
-
+This coursework will demonstrate our understanding of the major concepts of systems architecture and design techniques required to successfully develop an online vaccine booking system. We will also demonstrate our understanding of the importance of implementing these techniques in the design phase and how they assist the design to accomplish its primary purpose in order to ensure that the system is comprehensive and adequate for its intended usage.
