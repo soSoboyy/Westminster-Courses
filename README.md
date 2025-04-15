@@ -1,15 +1,7 @@
 # Westminster-Courses
 
-The following folder contains some courses during my undergrad at the university of Westminster
-
-Y2021:
-- Database Design
-- .
-
-
-Y2022:
-- Database Systems
-- .
+The following folder contains some courses during my undergrad at the university of Westminster.
 
 Y2023:
-- Stategic Management of Information Systems
+-Strategic Management of Information Systems
+-Information Driven Entrepreneurship and Enterprise
