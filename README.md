@@ -14,4 +14,5 @@ Y2022:
 Y2023:
 - Strategic Management of Information Systems
 - Information Driven Entrepreneurship and Enterprise
+- Big Data
 - FYP
