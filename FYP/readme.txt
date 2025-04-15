@@ -1,2 +1,3 @@
 This project aimed to analyse, from a business and strategic point of view, the C2C business model and how it can be used to implement a travel marketplace that allows travellers to purchase services from local providers in various countries. These goals extend a wide variety of factors associated with designing and establishing a travel marketplace within the area of Business Information Systems. Every aim adds to the project's overall success and provides substantial learning opportunities for the being graduate student.
 
+Visit Frame link to the project conceptual wireframe : https://framer.com/projects/GoWander--vDBgDGfTE4i9QBE6C2n6-dbAI3
