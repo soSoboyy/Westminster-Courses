@@ -1,0 +1,1 @@
+The following folder contains my first database design coursework at the University of Westminster back in 2021. The DBCW.pdf file contains the sql code, ER diagram and .sql files for all the entities in the ER diagram.
