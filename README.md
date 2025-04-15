@@ -11,6 +11,3 @@ Y2022:
 - Business Information Systems Development
 - Agile
 
-Y2023:
-- Strategic Management of Information Systems
-- Information Driven Entrepreneurship and Enterprise
